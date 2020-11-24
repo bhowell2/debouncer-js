@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "removeComments": false,
+    "declaration": true,
+    "strict": true,
+    "noImplicitAny": true,
+    "moduleResolution": "Node",
+    "module": "CommonJS",
+    "target": "ES5",
+    "outDir": "dist/"
+  },
+  "files": ["./index.ts"],
+  "exclude": ["node_modules", "dist"]
+}
